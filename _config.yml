@@ -1,10 +1,10 @@
 # Site settings
 title: Mustafa Eskin
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+# url: 'http://thomas.zuehlke.family'
 baseurl: ''
 profilepic: '/images/eskinmi.jpg'
-bkimage: '/images/bk1.jpg'
+bkimage: '/images/background.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
