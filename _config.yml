@@ -14,7 +14,7 @@ author:
   twitter_username: mustafaeskinn
   github_username:  eskinmi
   linkedin_username:  mustafasamedeskin
-#   meetup_name: Azure-Meetup-Rostock-MV
+   meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
 destination: _site
