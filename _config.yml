@@ -1,7 +1,7 @@
 # Site settings
-title: Mustafa Eskin
-description: 'Business Card Page'
-# url: 'http://thomas.zuehlke.family'
+title: Mustafa Samed Eskin
+description: 'Portfolio Page'
+url: 'https://eskinmi.github.io/'
 baseurl: ''
 profilepic: '/images/eskinmi.jpg'
 bkimage: '/images/background.jpg'
@@ -9,12 +9,13 @@ google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Mustafa Eskin'
+  name: 'Mustafa Samed Eskin'
   email: mustafasamedeskin@gmail.com
   twitter_username: mustafaeskinn
+  facebook_username: MustafaEskinn
   github_username:  eskinmi
   linkedin_username:  mustafasamedeskin
-   meetup_name: Azure-Meetup-Rostock-MV
+#  meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
 destination: _site
