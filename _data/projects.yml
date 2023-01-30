@@ -1,42 +1,25 @@
 # projects section data
-- name: Extensive Multi Armed Bandit Implementations
+- name: MabMan
   gh_user: eskinmi
+  img: https://github.com/eskinmi/eskinmi.github.io/blob/main/images/mab.jpg?raw=true
   repo: mabman
-  img: https://user-images.githubusercontent.com/32843441/147861707-a0c412ab-93d6-4fd2-86f4-2ef2b2722c47.png
   desc: An extensive multi armed bandit library with implementations of many strategies of dueling, adversarial, simple, and contextual bandits.
-- name: Keycloak Dockerfile with SSH
-  gh_user: eskinmi
-  img: https://user-images.githubusercontent.com/32843441/147859397-a1dbc63b-c58f-4536-ae8a-d51e17aa08ce.png
 
-- name: Monopoly Money Manager
+- name: Plenty
   gh_user: eskinmi
-  repo: MonopolyMoneyManager
-  img: https://user-images.githubusercontent.com/32843441/103153706-bad12c80-4792-11eb-880b-1bf966d6d2a1.png
+  repo: plenty
+  img: https://github.com/eskinmi/eskinmi.github.io/blob/main/images/plenty.jpg?raw=true
+  decs: Backend implementation home plant caring for a python app, that includes, creating a repertoire, plant detection, plant-disease detection and care optimisation.
 
-- name: Azure Gremlin API
+- name: PingVest
   gh_user: eskinmi
-  repo: AzGremlinRestApi
-  img: https://user-images.githubusercontent.com/32843441/103159777-d86fb780-47cd-11eb-9952-ea0242e0ab9d.png
+  repo: ping-vest
+  desc: A simple stock price fluctuation notifier with different strategies for detection.
+  img: https://github.com/eskinmi/eskinmi.github.io/blob/main/images/pingvest.jpg?raw=true
 
-- name: Debug Container
+- name: Bayesian AB Evaluator
   gh_user: eskinmi
-  repo: DebugContainer
-  img: https://user-images.githubusercontent.com/32843441/62822286-71724400-bb81-11e9-9c0b-59fe58dd39a8.png
+  repo: bayesian_abt
+  desc: Implementation of Bayesian A/B Test Evaluation for binomial feedback.
+  img: https://github.com/eskinmi/eskinmi.github.io/blob/main/images/bayesian_abt.jpg?raw=true
 
-- name: Jekyll Theme
-  gh_user: eskinmi
-  repo: jekyll-uno-timeline
-  img: https://raw.githubusercontent.com/tzuehlke/jekyll-uno-timeline/master/screenshot-overview.png
-  desc: This Jekyll Theme. Based on the Uno-Theme with a list of projects as timeline. Like a business card.
-
-- name: Azure Automation Scripts
-  gh_user: eskinmi
-  repo: scripts
-  #img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
-  img: https://docs.microsoft.com/de-de/powershell/media/index/ps_black_128.svg
-  desc: Some scripts that I used with Azure Automation. For example a VM Start/Stop script or a script for resetting a VPN tunnel.
-
-- name: Face API
-  gh_user: ArvatoSystems
-  repo: FaceApiWPF
-  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
