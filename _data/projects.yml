@@ -1,4 +1,11 @@
 # projects section data
+
+- name: GPT Implementation
+  gh_user: eskinmi
+  img: https://github.com/eskinmi/eskinmi.github.io/blob/main/images/chatgpt.jpg?raw=true
+  repo: gpt_naive
+  desc: A GPT implementation with PyTorch.
+
 - name: MabMan
   gh_user: eskinmi
   img: https://github.com/eskinmi/eskinmi.github.io/blob/main/images/mab.jpg?raw=true
@@ -9,7 +16,7 @@
   gh_user: eskinmi
   repo: plenty
   img: https://github.com/eskinmi/eskinmi.github.io/blob/main/images/plenty.jpg?raw=true
-  decs: Backend implementation home plant caring for a python app, that includes, creating a repertoire, plant detection, plant-disease detection and care optimisation.
+  desc: Backend implementation home plant caring for a python app, that includes, creating a repertoire, plant detection, plant-disease detection and care optimisation.
 
 - name: PingVest
   gh_user: eskinmi
@@ -22,4 +29,3 @@
   repo: bayesian_abt
   desc: Implementation of Bayesian A/B Test Evaluation for binomial feedback.
   img: https://github.com/eskinmi/eskinmi.github.io/blob/main/images/bayesian_abt.jpg?raw=true
-
